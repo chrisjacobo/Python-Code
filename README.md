@@ -1,1 +1,1 @@
-This is a group python project that my fellow classmates and I created. It is an escape from alcatraz game where you at the police are trying to capture the criminal who escaped.
+This is a group python project that my fellow classmates and I created. It is an escape from alcatraz game where you are the police trying to capture the inmate who escaped; in doing so you will encounter a challenging quest along the way.
